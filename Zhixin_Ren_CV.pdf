@@ -1,0 +1,100 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R /F3 6 0 R /F4 7 0 R >> >> /Contents 8 0 R /Annots [9 0 R 10 0 R 11 0 R 12 0 R] >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Roman >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+8 0 obj
+<< /Length 3238 >>
+stream
+0.09 0.24 0.38 rg BT /F2 10 Tf 1 0 0 1 48 786 Tm (ACADEMIC CURRICULUM VITAE) Tj ET
+0.84 0.88 0.91 RG 0.7 w 48 775 m 547 775 l S
+0.09 0.24 0.38 rg BT /F3 33 Tf 1 0 0 1 48 738 Tm (Zhixin Ren) Tj ET
+0.11 0.16 0.22 rg BT /F2 13 Tf 1 0 0 1 48 709 Tm (Ph.D. Student in Cyber Security) Tj ET
+0.11 0.16 0.22 rg BT /F1 11 Tf 1 0 0 1 48 691 Tm (School of Cyber Science and Technology) Tj ET
+0.11 0.16 0.22 rg BT /F1 11 Tf 1 0 0 1 48 676 Tm (Beihang University, Beijing, China) Tj ET
+0.09 0.24 0.38 rg BT /F1 10 Tf 1 0 0 1 48 655 Tm (Email: zxren@buaa.edu.cn) Tj ET
+0.09 0.24 0.38 rg BT /F1 10 Tf 1 0 0 1 48 640 Tm (ORCID: 0009-0009-6660-6076) Tj ET
+0.84 0.88 0.91 RG 0.7 w 48 621 m 547 621 l S
+0.09 0.24 0.38 rg BT /F2 11 Tf 1 0 0 1 48 601 Tm (RESEARCH INTERESTS) Tj ET
+0.11 0.16 0.22 rg BT /F1 10.5 Tf 1 0 0 1 48 580 Tm (Zero-knowledge machine learning \(ZKML\); zero-knowledge proofs \(ZKPs\);) Tj ET
+0.11 0.16 0.22 rg BT /F1 10.5 Tf 1 0 0 1 48 565 Tm (blockchain-based access control; privacy-preserving data sharing.) Tj ET
+0.84 0.88 0.91 RG 0.7 w 48 546 m 547 546 l S
+0.09 0.24 0.38 rg BT /F2 11 Tf 1 0 0 1 48 526 Tm (EDUCATION) Tj ET
+0.11 0.16 0.22 rg BT /F2 11 Tf 1 0 0 1 48 505 Tm (Beihang University, School of Cyber Science and Technology) Tj ET
+0.11 0.16 0.22 rg BT /F1 10.5 Tf 1 0 0 1 48 488 Tm (Ph.D. in Cyber Security \(in progress\) | September 2025 - Present) Tj ET
+0.11 0.16 0.22 rg BT /F1 10.5 Tf 1 0 0 1 48 473 Tm (Supervisor: Prof. Zongyang Zhang) Tj ET
+0.84 0.88 0.91 RG 0.7 w 48 453 m 547 453 l S
+0.09 0.24 0.38 rg BT /F2 11 Tf 1 0 0 1 48 433 Tm (PUBLICATIONS) Tj ET
+0.32 0.38 0.44 rg BT /F2 10 Tf 1 0 0 1 48 414 Tm (Peer-reviewed journal articles) Tj ET
+0.11 0.16 0.22 rg BT /F2 10.5 Tf 1 0 0 1 48 391 Tm (1.  L2-MA-CPABE: A ciphertext access control scheme integrating blockchain) Tj ET
+0.11 0.16 0.22 rg BT /F2 10.5 Tf 1 0 0 1 66 376 Tm (and off-chain computation with zero knowledge proof) Tj ET
+0.11 0.16 0.22 rg BT /F2 10 Tf 1 0 0 1 66 357 Tm (Z. Ren,) Tj ET
+0.11 0.16 0.22 rg BT /F1 10 Tf 1 0 0 1 101 357 Tm (Y. Yu, E. Yan, T. Chen.) Tj ET
+0.11 0.16 0.22 rg BT /F4 10 Tf 1 0 0 1 66 340 Tm (Journal of King Saud University - Computer and Information Sciences,) Tj ET
+0.32 0.38 0.44 rg BT /F1 10 Tf 1 0 0 1 66 325 Tm (vol. 36, no. 10, article 102247, 2024.) Tj ET
+0.09 0.24 0.38 rg BT /F1 10 Tf 1 0 0 1 66 307 Tm (DOI: 10.1016/j.jksuci.2024.102247) Tj ET
+0.84 0.88 0.91 RG 0.7 w 48 289 m 547 289 l S
+0.11 0.16 0.22 rg BT /F2 10.5 Tf 1 0 0 1 48 267 Tm (2.  Blockchain-based CP-ABE data sharing and privacy-preserving scheme) Tj ET
+0.11 0.16 0.22 rg BT /F2 10.5 Tf 1 0 0 1 66 252 Tm (using distributed KMS and zero-knowledge proof) Tj ET
+0.11 0.16 0.22 rg BT /F2 10 Tf 1 0 0 1 66 233 Tm (Z. Ren,) Tj ET
+0.11 0.16 0.22 rg BT /F1 10 Tf 1 0 0 1 101 233 Tm (E. Yan, T. Chen, Y. Yu.) Tj ET
+0.11 0.16 0.22 rg BT /F4 10 Tf 1 0 0 1 66 216 Tm (Journal of King Saud University - Computer and Information Sciences,) Tj ET
+0.32 0.38 0.44 rg BT /F1 10 Tf 1 0 0 1 66 201 Tm (vol. 36, no. 3, article 101969, 2024.) Tj ET
+0.09 0.24 0.38 rg BT /F1 10 Tf 1 0 0 1 66 183 Tm (DOI: 10.1016/j.jksuci.2024.101969) Tj ET
+0.84 0.88 0.91 RG 0.7 w 48 78 m 547 78 l S
+0.32 0.38 0.44 rg BT /F1 9 Tf 1 0 0 1 48 60 Tm (Last updated: November 2026) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 651 190 666] /Border [0 0 0] /A << /S /URI /URI (mailto:zxren@buaa.edu.cn) >> >>
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [48 636 200 650] /Border [0 0 0] /A << /S /URI /URI (https://orcid.org/0009-0009-6660-6076) >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [66 303 245 318] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1016/j.jksuci.2024.102247) >> >>
+endobj
+12 0 obj
+<< /Type /Annot /Subtype /Link /Rect [66 179 245 194] /Border [0 0 0] /A << /S /URI /URI (https://doi.org/10.1016/j.jksuci.2024.101969) >> >>
+endobj
+13 0 obj
+<< /Title (Zhixin Ren | Curriculum Vitae) /Author (Zhixin Ren) >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000314 00000 n 
+0000000384 00000 n 
+0000000459 00000 n 
+0000000531 00000 n 
+0000000609 00000 n 
+0000003898 00000 n 
+0000004035 00000 n 
+0000004186 00000 n 
+0000004344 00000 n 
+0000004502 00000 n 
+trailer
+<< /Size 14 /Root 1 0 R /Info 13 0 R >>
+startxref
+4584
+%%EOF
